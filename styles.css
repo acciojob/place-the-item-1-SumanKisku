@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 
-body {
+.holder {
     display: flex;
     flex-wrap: wrap;
 }
